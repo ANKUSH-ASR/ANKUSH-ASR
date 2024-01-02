@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANKUSH-ASR
+- 👋 Hi, I’m @ANKUSH KUMAR SINGH
 - 👀 I’m interested in ...Data Related Work
 - 🌱 I’m currently learning ...Data Analyst
 - 💞️ I’m looking to collaborate...No_One
