@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ankushemoboy@gmail.com & www.linkedin.com/in/ankush-singh-b28594136**
 
-- 📄 Know about my experiences [My Portfolio] (https://bold.pro/my/ankushkumar-singh-240108202041)
+- 📄 Know about my experiences [My Portfolio](https://bold.pro/my/ankushkumar-singh-240108202041)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
