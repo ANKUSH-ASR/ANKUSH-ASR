@@ -9,10 +9,11 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ANKUSH-ASR](https://github.com/ANKUSH-ASR)
 
 - 💬 Ask me about **Advance Excel, Power Bi , SQL, Python**
+- [MY Website](https://ankush-asr.github.io/ANKUSH.io/)
 
 - 📫 How to reach me **ankushemoboy@gmail.com & www.linkedin.com/in/ankush-singh-b28594136**
 
-- 📄 Know about my experiences My Portfolio (https://bold.pro/my/ankushkumar-singh-240108202041)
+- 📄 Know about my experiences [My Portfolio] (https://bold.pro/my/ankushkumar-singh-240108202041)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
