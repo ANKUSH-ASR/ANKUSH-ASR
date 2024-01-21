@@ -6,12 +6,12 @@
 
 - 🌱 I’m currently learning **Data Analytic Tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ANKUSH-ASR](https://github.com/ANKUSH-ASR)
+- 👨‍💻 All of my projects are available at [github](https://github.com/ANKUSH-ASR)
 
 - 💬 Ask me about **Advance Excel, Power Bi , SQL, Python**
 - [MY Website](https://ankush-asr.github.io/ANKUSH.io/)
 
-- 📫 How to reach me **ankushemoboy@gmail.com & www.linkedin.com/in/ankush-singh-b28594136**
+- 📫 How to reach me **[Gmail](ankushemoboy@gmail.com) & [LinkedIN](www.linkedin.com/in/ankush-singh-b28594136)**
 
 - 📄 Know about my experiences [My Portfolio](https://bold.pro/my/ankushkumar-singh-240108202041)
 
